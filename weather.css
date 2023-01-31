@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #222;
+    background-image: url('https://free4kwallpapers.com/uploads/originals/2022/03/28/anime-landscape-for-desktop-sea-ships-colorful-clouds-scenic-tree-horizon-wallpaper.jpg');
+    background-size: cover;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.search1{
+    border: none;
+    outline: none;
+    padding: 0.8em;
+    border-radius: 18px;
+}
